@@ -1,6 +1,5 @@
 import VendingMachine.Machine.Compartment;
 import VendingMachine.Machine.CompartmentCode;
-import VendingMachine.Products.Product;
 import VendingMachine.Products.Sweet;
 import org.junit.Before;
 import org.junit.Test;
