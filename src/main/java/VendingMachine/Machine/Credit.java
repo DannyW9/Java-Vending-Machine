@@ -26,6 +26,11 @@ public class Credit {
         this.coins.add(coin);
     }
 
+    public void removeAllCoins(){
+        this.coins.removeAll(coins);
+    }
+
+
 
 
 }
